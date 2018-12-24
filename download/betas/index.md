@@ -108,6 +108,8 @@ ncdns plain binaries are also available for most major operating systems.  These
 * [ncdns Windows Installer Source Code](https://github.com/namecoin/ncdns-nsis)
 * [ncdns Source Code](https://github.com/namecoin/ncdns)
 
+#Note: Conference files for both ncdns and namecoin client will need to be configured to allow blockchain to be accessed.
+
 ### Known Issues
 
 * Build is not yet reproducible.
